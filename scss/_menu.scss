@@ -8,7 +8,7 @@
   z-index: 3;
   .btn-line {
     @include easeOut;
-    background-color: #fff;
+    background-color: set-text-color($primary-color);
     margin-bottom: 5px;
     width: 28px; height: 3px;
   }
@@ -89,7 +89,7 @@
 
   .nav-link {
     @include easeOut;
-    color: #fff;
+    color: set-text-color($primary-color);
     display: inline-block;
     font-size: 30px;
     font-weight: 300;
