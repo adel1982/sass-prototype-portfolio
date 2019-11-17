@@ -1,0 +1,10 @@
+/*------------------------------------*\
+  $ FOOTER
+\*------------------------------------*/
+#main-footer {
+  background-color: darken($primary-color, 10);
+  color: set-text-color($primary-color);
+  height: 60px;
+  padding: 1rem;
+  text-align: center;
+}

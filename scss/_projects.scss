@@ -1,0 +1,17 @@
+/*------------------------------------*\
+  $ WORK / PROJECT
+\*------------------------------------*/
+.projects {
+  display: grid;
+  grid-gap: .7rem;
+  grid-template-columns: repeat(3, 1fr);
+  img {
+    @include easeOut;
+    border: 3px solid #fff;
+    width: 100%;
+    &:hover {
+      border-color: $secondary-color;
+      opacity: .5;
+    }
+  }
+}
