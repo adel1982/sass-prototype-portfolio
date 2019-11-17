@@ -1,4 +1,6 @@
 # Sass Portfolio
 
 ## Used Technologys
-- HTML / CSS 
+- HTML / CSS / SCSS
+- NodeSASS
+- Yarn
