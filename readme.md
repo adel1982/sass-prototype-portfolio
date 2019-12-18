@@ -2,5 +2,4 @@
 
 ## Used Technologys
 - HTML / CSS / SASS
-- NodeSASS
 - Yarn
